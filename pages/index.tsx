@@ -1,10 +1,10 @@
 import { Inter } from 'next/font/google'
 import Head from 'next/head'
-import Main from '../Components/Main'
-import About from '../Components/About'
-import Skills from '../Components/Skills'
-import Projects from '../Components/Projects'
-import Contact from '../Components/Contact'
+import Main from '../components/Main'
+import About from '../components/About'
+import Skills from '../components/Skills'
+import Projects from '../components/Projects'
+import Contact from '../components/Contact'
 
 const inter = Inter({ subsets: ['latin'] })
 
